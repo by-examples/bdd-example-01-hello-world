@@ -1,6 +1,9 @@
 How to run the project?
 =======================
 
+This example is explained in
+the post
+(Symfony/BDD example: Hello, world!)[http://by-examples.net/2014/12/24/bdd-example-hello-world-symfony.html].
 
 ##1. Preliminary step
 
