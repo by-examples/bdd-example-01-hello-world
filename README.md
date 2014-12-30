@@ -22,13 +22,12 @@ in the post titled
 
     $ vagrant up
     $ vagrant ssh
+    $ composer install -o
     $ bin/behat
 
-
-##4. Visiting the app with the browser
+##4. Visit the app with the browser
 
 Now, you can run the web browser and visit:
 
     http://localhost:8880/
     http://localhost:8880/app_dev.php/
-
