@@ -12,16 +12,20 @@ named `symfony-v0.4.4`. You will find the instruction
 in the post titled
 [Generating symfony-v0.4.4 box](http://by-examples.net/2014/12/23/generating-symfony-0-4-4-box.html).
 
-##2. Running the tests
-
-    $ vagrant ssh
-    $ bin/behat
-
-##3. Running the example
+##2. Running the example
 
     $ git clone https://github.com/by-examples/symfony-bdd-example-01-hello-world.git
     $ cd symfony-bdd-example-01-hello-world
     $ vagrant up
+
+##3. Running the tests
+
+    $ vagrant up
+    $ vagrant ssh
+    $ bin/behat
+
+
+##4. Visiting the app with the browser
 
 Now, you can run the web browser and visit:
 
